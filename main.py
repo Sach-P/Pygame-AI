@@ -302,7 +302,7 @@ def run(config_file):
     stats = neat.StatisticsReporter()
     p.add_reporter(stats)
 
-    winner = p.run(main, 100)
+    p.run(main, 100)
 
 # Configuration file
 if __name__ == "__main__":
