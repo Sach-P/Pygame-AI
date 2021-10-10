@@ -1,4 +1,4 @@
-# AI Plays Dungeon
+# Pygame-AI
 
 AI learns, using reinforcement learning with NEAT, to play a game I made in pygame.
 
